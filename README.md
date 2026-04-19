@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=15400E&height=200&section=header&text=Pedro%20Henrique%20Zaratim%20de%20Souza&fontSize=30&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Sistemas%20Embarcados%20%7C%20ESP32%20%7C%20C%20%7C%20Automação&descAlignY=55&descAlign=50"/>
+  <img src="https://capsule-render.vercel.app/api?type=blur&color=15400E&height=190&section=header&text=Pedro%20Henrique%20Zaratim&fontSize=36&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Firmware%20%7C%20ESP32%20%7C%20Automação&descAlignY=65"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=20&duration=3500&pause=1200&color=19C37D&center=true&vCenter=true&width=600&lines=Firmware+Developer;ESP32+%7C+C+%7C+FreeRTOS;Automação+e+Controle"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=20&duration=4000&pause=1500&color=19C37D&center=true&vCenter=true&width=600&lines=Controle+e+Sistemas+Embarcados;Desenvolvimento+em+C;Arquitetura+de+Firmware"/>
 </p>
 
 ---
