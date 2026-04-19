@@ -1,4 +1,9 @@
-# Pedro Henrique Zaratim de Souza
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A5F0A&height=200&section=header&text=Pedro%20Henrique%20Zaratim%20de%20Souza&fontSize=30&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Sistemas%20Embarcados%20%7C%20ESP32%20%7C%20C%20%7C%20Automação&descAlignY=55&descAlign=50"/>
+</p>
+
+---
+
 
 <p align="center">
   <b>Técnico em Eletroeletrônica (SENAI)</b><br>
