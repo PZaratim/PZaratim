@@ -1,9 +1,12 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A5F0A&height=200&section=header&text=Pedro%20Henrique%20Zaratim%20de%20Souza&fontSize=30&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Sistemas%20Embarcados%20%7C%20ESP32%20%7C%20C%20%7C%20Automação&descAlignY=55&descAlign=50"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=15400E&height=200&section=header&text=Pedro%20Henrique%20Zaratim%20de%20Souza&fontSize=30&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Sistemas%20Embarcados%20%7C%20ESP32%20%7C%20C%20%7C%20Automação&descAlignY=55&descAlign=50"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=20&duration=3500&pause=1200&color=19C37D&center=true&vCenter=true&width=600&lines=Firmware+Developer;ESP32+%7C+C+%7C+FreeRTOS;Automação+e+Controle"/>
 </p>
 
 ---
-
 
 <p align="center">
   <b>Técnico em Eletroeletrônica (SENAI)</b><br>
@@ -20,16 +23,16 @@ Estudante focado em sistemas embarcados e automação, com interesse em desenvol
 
 ## Objetivo
 
-Atuar na área de automação com foco em soluções eficientes, controle e integração de sistemas.
+Atuar na área de automação, desenvolvendo soluções eficientes com foco em controle, lógica e integração de sistemas.
 
 ---
 
 ## Tecnologias
 
 <p align="center">
-  <img src="https://img.shields.io/badge/C-013220?style=for-the-badge&logo=c&logoColor=19C37D"/>
-  <img src="https://img.shields.io/badge/ESP32-013220?style=for-the-badge&logo=espressif&logoColor=19C37D"/>
-  <img src="https://img.shields.io/badge/FreeRTOS-013220?style=for-the-badge&logo=freertos&logoColor=19C37D"/>
+  <img src="https://img.shields.io/badge/C-15400E?style=for-the-badge&logo=c&logoColor=19C37D"/>
+  <img src="https://img.shields.io/badge/ESP32-15400E?style=for-the-badge&logo=espressif&logoColor=19C37D"/>
+  <img src="https://img.shields.io/badge/FreeRTOS-15400E?style=for-the-badge&logo=freertos&logoColor=19C37D"/>
 </p>
 
 ---
@@ -46,7 +49,7 @@ Atuar na área de automação com foco em soluções eficientes, controle e inte
 ## Atividade
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PZaratim&theme=github-dark&color=19C37D&line=0F7A0F&point=FFFFFF"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PZaratim&theme=github-dark&color=19C37D&line=15400E&point=FFFFFF"/>
 </p>
 
 ---
