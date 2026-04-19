@@ -1,13 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=15400E&height=220&section=header&text=&fontSize=0"/>
-</p>
-
-<h2 align="center" style="color:#19C37D;">
-Pedro Henrique Zaratim de Souza
-</h2>
-
-<p align="center" style="color:#19C37D;">
-Sistemas Embarcados | ESP32 | C | Automação
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=15400E&height=220&section=header&text=Pedro%20Henrique%20Zaratim%20de%20Souza&fontSize=26&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=ESP32%20%7C%20Firmware%20%7C%20Automação&descAlignY=60&descAlign=50"/>
 </p>
 
 <p align="center">
