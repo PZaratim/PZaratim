@@ -17,7 +17,7 @@
 
 ---
 
-## Sobre mim
+## <span style="color:#19C37D">Sobre mim</span>
 
 Engenheiro em formação na área de sistemas embarcados, com foco em desenvolvimento de firmware em C para ESP32. Atuação voltada à implementação de lógica de controle, integração de hardware e construção de sistemas baseados em eventos e tempo real.
 
@@ -25,9 +25,9 @@ Atuo entre software e hardware, transformando requisitos funcionais em comportam
 
 ---
 
-## Objetivo
+## <span style="color:#19C37D">Objetivo</span>
 
-Atuar no desenvolvimento de sistemas embarcados e automação, com foco em firmware, arquitetura de controle e integração de sistemas eletrônicos.
+Atuar no desenvolvimento de sistemas embarcados e automação, com foco em firmware de baixo nível, arquitetura de controle e integração de sistemas eletrônicos.
 
 Direcionado a ambientes industriais e aplicações em tempo real.
 
