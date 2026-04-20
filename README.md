@@ -21,6 +21,8 @@
 
 Estudante focado em sistemas embarcados e automação, com interesse em desenvolvimento de firmware em C, controle de hardware e arquitetura de sistemas.
 
+Trabalho com a ponte entre software e hardware, transformando lógica em comportamento real.
+
 ---
 
 ## Objetivo
@@ -36,6 +38,12 @@ Atuar na área de automação, desenvolvendo soluções eficientes com foco em c
   <img src="https://img.shields.io/badge/ESP32-062110?style=for-the-badge&logo=espressif&logoColor=19C37D"/>
   <img src="https://img.shields.io/badge/FreeRTOS-062110?style=for-the-badge&logo=freertos&logoColor=19C37D"/>
 </p>
+
+<p align="center">
+GPIO • PWM • ADC • UART • I2C • SPI • FreeRTOS • Interrupções
+</p>
+
+---
 
 ---
 
