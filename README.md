@@ -23,9 +23,9 @@
 
 <div style="background:rgba(153,205,133,0.08); padding:18px; border-radius:14px; border:1px solid rgba(153,205,133,0.35); line-height:1.6;">
 
-Engenheiro em formação na área de sistemas embarcados, com foco em desenvolvimento de firmware em C para ESP32 utilizando **ESP-IDF**. Atuação voltada à implementação de lógica de controle, integração de hardware e construção de sistemas baseados em eventos e tempo real.
+Desenvolvedor em formação na área de sistemas embarcados, com foco em firmware em C para ESP32 utilizando ESP-IDF e FreeRTOS. Experiência na implementação de lógica de controle baseada em eventos, manipulação de GPIO e temporização em sistemas de tempo real.
 
-Atuo entre software e hardware, transformando requisitos funcionais em comportamento físico determinístico.
+Atuação integrada entre software e hardware, com ênfase em comportamento determinístico, organização de código e eficiência na execução.
 
 </div>
 
@@ -33,7 +33,7 @@ Atuo entre software e hardware, transformando requisitos funcionais em comportam
 
 ## Tecnologias
 
-<p align="center" style="gap:10px;">
+<p align="center">
   <img src="https://img.shields.io/badge/C-062110?style=for-the-badge&logo=c&logoColor=99cd85"/>
   <img src="https://img.shields.io/badge/ESP32-062110?style=for-the-badge&logo=espressif&logoColor=99cd85"/>
   <img src="https://img.shields.io/badge/ESP--IDF-062110?style=for-the-badge&logo=espressif&logoColor=99cd85"/>
