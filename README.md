@@ -19,15 +19,17 @@
 
 ## Sobre mim
 
-Estudante focado em sistemas embarcados e automação, com interesse em desenvolvimento de firmware em C, controle de hardware e arquitetura de sistemas.
+Engenheiro em formação na área de sistemas embarcados, com foco em desenvolvimento de firmware em C para ESP32. Atuação voltada à implementação de lógica de controle, integração de hardware e construção de sistemas baseados em eventos e tempo real.
 
-Trabalho com a ponte entre software e hardware, transformando lógica em comportamento real.
+Atuo entre software e hardware, transformando requisitos funcionais em comportamento físico determinístico.
 
 ---
 
 ## Objetivo
 
-Atuar na área de automação, desenvolvendo soluções eficientes com foco em controle, lógica e integração de sistemas.
+Atuar no desenvolvimento de sistemas embarcados e automação, com foco em firmware, arquitetura de controle e integração de sistemas eletrônicos.
+
+Direcionado a ambientes industriais e aplicações em tempo real.
 
 ---
 
@@ -37,10 +39,6 @@ Atuar na área de automação, desenvolvendo soluções eficientes com foco em c
   <img src="https://img.shields.io/badge/C-062110?style=for-the-badge&logo=c&logoColor=19C37D"/>
   <img src="https://img.shields.io/badge/ESP32-062110?style=for-the-badge&logo=espressif&logoColor=19C37D"/>
   <img src="https://img.shields.io/badge/FreeRTOS-062110?style=for-the-badge&logo=freertos&logoColor=19C37D"/>
-</p>
-
-<p align="center">
-GPIO • PWM • ADC • UART • I2C • SPI • FreeRTOS • Interrupções
 </p>
 
 ---
