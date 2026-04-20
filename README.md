@@ -1,7 +1,5 @@
 <div style="background-color:#062110; padding:28px; border-radius:16px; font-family:Arial, Helvetica, sans-serif; color:#ffffff;">
 
-# Pedro Henrique Zaratim de Souza
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=062110&height=220&section=header&text=Pedro%20Henrique%20Zaratim%20de%20Souza&fontSize=26&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=ESP32%20%7C%20Firmware%20%7C%20Automação&descAlignY=60&descAlign=50"/>
 </p>
@@ -23,7 +21,7 @@
 
 ## Sobre mim
 
-<div style="background:rgba(255,255,255,0.03); padding:18px; border-radius:14px; border-left:4px solid #19C37D; line-height:1.6;">
+<div style="background:rgba(25,195,125,0.08); padding:18px; border-radius:14px; border:1px solid rgba(25,195,125,0.35); line-height:1.6;">
 
 Engenheiro em formação na área de sistemas embarcados, com foco em desenvolvimento de firmware em C para ESP32. Atuação voltada à implementação de lógica de controle, integração de hardware e construção de sistemas baseados em eventos e tempo real.
 
@@ -35,7 +33,7 @@ Atuo entre software e hardware, transformando requisitos funcionais em comportam
 
 ## Objetivo
 
-<div style="background:rgba(255,255,255,0.03); padding:18px; border-radius:14px; border-left:4px solid #19C37D; line-height:1.6;">
+<div style="background:rgba(25,195,125,0.08); padding:18px; border-radius:14px; border:1px solid rgba(25,195,125,0.35); line-height:1.6;">
 
 Atuar no desenvolvimento de sistemas embarcados e automação, com foco em firmware de baixo nível, arquitetura de controle e integração de sistemas eletrônicos.
 
