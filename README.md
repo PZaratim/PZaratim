@@ -1,5 +1,7 @@
+# Pedro Henrique Zaratim de Souza
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=15400E&height=220&section=header&text=Pedro%20Henrique%20Zaratim%20de%20Souza&fontSize=26&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=ESP32%20%7C%20Firmware%20%7C%20Automação&descAlignY=60&descAlign=50"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=062110&height=220&section=header&text=Pedro%20Henrique%20Zaratim%20de%20Souza&fontSize=26&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=ESP32%20%7C%20Firmware%20%7C%20Automação&descAlignY=60&descAlign=50"/>
 </p>
 
 <p align="center">
@@ -30,9 +32,9 @@ Atuar na área de automação, desenvolvendo soluções eficientes com foco em c
 ## Tecnologias
 
 <p align="center">
-  <img src="https://img.shields.io/badge/C-15400E?style=for-the-badge&logo=c&logoColor=19C37D"/>
-  <img src="https://img.shields.io/badge/ESP32-15400E?style=for-the-badge&logo=espressif&logoColor=19C37D"/>
-  <img src="https://img.shields.io/badge/FreeRTOS-15400E?style=for-the-badge&logo=freertos&logoColor=19C37D"/>
+  <img src="https://img.shields.io/badge/C-062110?style=for-the-badge&logo=c&logoColor=19C37D"/>
+  <img src="https://img.shields.io/badge/ESP32-062110?style=for-the-badge&logo=espressif&logoColor=19C37D"/>
+  <img src="https://img.shields.io/badge/FreeRTOS-062110?style=for-the-badge&logo=freertos&logoColor=19C37D"/>
 </p>
 
 ---
@@ -49,7 +51,7 @@ Atuar na área de automação, desenvolvendo soluções eficientes com foco em c
 ## Atividade
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PZaratim&theme=github-dark&color=19C37D&line=15400E&point=FFFFFF"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PZaratim&theme=github-dark&color=19C37D&line=062110&point=FFFFFF"/>
 </p>
 
 ---
