@@ -1,5 +1,6 @@
-<div style="background-color:#062110; padding:28px; border-radius:16px; font-family:Arial, Helvetica, sans-serif; color:#ffffff;">
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,40:062110,100:0b3d2e&height=240&section=header&text=Pedro%20Henrique%20Zaratim%20de%20Souza&fontSize=28&fontColor=99cd85&fontAlignY=38&desc=ESP32%20%7C%20Firmware%20%7C%20Automação%20%7C%20PLC%20Ladder&descSize=14&descAlignY=60&descAlign=50"/>
+</p>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:062110,100:0b3d2e&height=220&section=header&text=Pedro%20Henrique%20Zaratim%20de%20Souza&fontSize=28&fontColor=99cd85&fontAlignY=38&desc=ESP32%20%7C%20Firmware%20%7C%20Automação%20%7C%20PLC%20Ladder&descSize=14&descAlignY=60&descAlign=50"/>
 </p>
