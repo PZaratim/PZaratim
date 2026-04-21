@@ -1,11 +1,11 @@
 <div style="background-color:#062110; padding:28px; border-radius:16px; font-family:Arial, Helvetica, sans-serif; color:#ffffff;">
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=062110&height=220&section=header&text=Pedro%20Henrique%20Zaratim%20de%20Souza&fontSize=26&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=ESP32%20%7C%20Firmware%20%7C%20Automação&descAlignY=60&descAlign=50"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:062110,100:0b3d2e&height=220&section=header&text=Pedro%20Henrique%20Zaratim%20de%20Souza&fontSize=28&fontColor=99cd85&fontAlignY=38&desc=ESP32%20%7C%20Firmware%20%7C%20Automação%20%7C%20PLC%20Ladder&descSize=14&descAlignY=60&descAlign=50"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=20&duration=4000&pause=1500&color=99cd85&center=true&vCenter=true&width=650&lines=Controle+e+Sistemas+Embarcados;Desenvolvimento+em+C;Arquitetura+de+Firmware;ESP-IDF+Framework"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=20&duration=4000&pause=1500&color=99cd85&center=true&vCenter=true&width=650&lines=Controle+e+Sistemas+Embarcados;Desenvolvimento+em+C;Arquitetura+de+Firmware;ESP-IDF+%7C+FreeRTOS+%7C+Ladder+Logic"/>
 </p>
 
 ---
@@ -13,7 +13,7 @@
 <div style="background:rgba(255,255,255,0.03); padding:18px; border-radius:14px; border:1px solid rgba(153,205,133,0.25);">
 <p align="center" style="margin:0;">
   <b>Técnico em Eletroeletrônica (SENAI)</b><br>
-  3º/4º termo • Sistemas Embarcados • Automação
+  Sistemas Embarcados • Automação Industrial • CLP (Ladder)
 </p>
 </div>
 
@@ -23,9 +23,9 @@
 
 <div style="background:rgba(153,205,133,0.08); padding:18px; border-radius:14px; border:1px solid rgba(153,205,133,0.35); line-height:1.6;">
 
-Desenvolvedor em formação na área de sistemas embarcados, com foco em firmware em C para ESP32 utilizando ESP-IDF e FreeRTOS. Experiência na implementação de lógica de controle baseada em eventos, manipulação de GPIO e temporização em sistemas de tempo real.
+Desenvolvedor em formação na área de sistemas embarcados e automação industrial, com foco em firmware em C para ESP32 utilizando ESP-IDF e FreeRTOS. Experiência na implementação de lógica de controle baseada em máquina de estados, manipulação de GPIO e sistemas em tempo real.
 
-Atuação integrada entre software e hardware, com ênfase em comportamento determinístico, organização de código e eficiência na execução.
+Conhecimento também em lógica de programação para CLPs utilizando Ladder Logic, integrando conceitos de automação industrial com sistemas embarcados.
 
 </div>
 
@@ -38,6 +38,7 @@ Atuação integrada entre software e hardware, com ênfase em comportamento dete
   <img src="https://img.shields.io/badge/ESP32-062110?style=for-the-badge&logo=espressif&logoColor=99cd85"/>
   <img src="https://img.shields.io/badge/ESP--IDF-062110?style=for-the-badge&logo=espressif&logoColor=99cd85"/>
   <img src="https://img.shields.io/badge/FreeRTOS-062110?style=for-the-badge&logo=freertos&logoColor=99cd85"/>
+  <img src="https://img.shields.io/badge/Ladder%20Logic-062110?style=for-the-badge&logo=automation&logoColor=99cd85"/>
 </p>
 
 ---
