@@ -1,9 +1,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,40:062110,100:0b3d2e&height=240&section=header&text=Pedro%20Henrique%20Zaratim%20de%20Souza&fontSize=28&fontColor=99cd85&fontAlignY=38&desc=ESP32%20%7C%20Firmware%20%7C%20Automação%20%7C%20PLC%20Ladder&descSize=14&descAlignY=60&descAlign=50"/>
 </p>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:062110,100:0b3d2e&height=220&section=header&text=Pedro%20Henrique%20Zaratim%20de%20Souza&fontSize=28&fontColor=99cd85&fontAlignY=38&desc=ESP32%20%7C%20Firmware%20%7C%20Automação%20%7C%20PLC%20Ladder&descSize=14&descAlignY=60&descAlign=50"/>
-</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=20&duration=4000&pause=1500&color=99cd85&center=true&vCenter=true&width=650&lines=Controle+e+Sistemas+Embarcados;Desenvolvimento+em+C;Arquitetura+de+Firmware;ESP-IDF+%7C+FreeRTOS+%7C+Ladder+Logic"/>
