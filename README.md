@@ -42,16 +42,6 @@ Conhecimento também em lógica de programação para CLPs utilizando Ladder Log
 
 ---
 
-## Estatísticas
-
-<p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=PZaratim&show_icons=true&theme=dark&title_color=d7b899&icon_color=d7b899&text_color=FFFFFF&bg_color=1b120d"/>
-  
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PZaratim&layout=compact&theme=dark&title_color=d7b899&text_color=FFFFFF&bg_color=1b120d"/>
-</p>
-
----
-
 ## Atividade
 
 <p align="center">
